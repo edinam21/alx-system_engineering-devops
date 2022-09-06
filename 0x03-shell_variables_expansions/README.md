@@ -18,3 +18,4 @@ a script that prints every other line from the input, starting with the first li
 a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
  a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
 a script that creates a new global variable
+a script that converts a number from base 2 to base 10.
