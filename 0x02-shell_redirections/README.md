@@ -17,3 +17,4 @@ a script that deletes all the regular files (not the directories) with a .js ext
 What’s new
 script that takes a list of words as input and prints only words that appear exactly once.
 Display lines containing the pattern “root” from the file /etc/passwd
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
